@@ -1,0 +1,24 @@
+@import "https://fonts.googleapis.com/css?family=Outfit:400,700";
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.card-title{
+    font-weight: 700;
+}
+
+p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%)
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
